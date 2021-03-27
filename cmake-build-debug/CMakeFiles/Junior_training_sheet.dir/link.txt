@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Junior_training_sheet.dir/main.cpp.o  -o Junior_training_sheet 
